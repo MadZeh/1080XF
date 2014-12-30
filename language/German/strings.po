@@ -44,6 +44,14 @@ msgctxt "#41107"
 msgid "Enable CDArt"
 msgstr "CDArt aktivieren"
 
+msgctxt "#41108"
+msgid "Automatically switch to music visualisation upon play"
+msgstr "Bei Wiedergabe automatisch zur Musikvisualisierung wechseln"
+
+msgctxt "#41109"
+msgid "Enable auto scrolling for text boxes"
+msgstr "Automatisches Scrollen für Textboxen aktivieren"
+
 msgctxt "#41112"
 msgid "Invert spin control"
 msgstr "\"Spin Control\" invertieren"
@@ -521,8 +529,8 @@ msgid "Skin version"
 msgstr "Skin Version"
 
 msgctxt "#41459"
-msgid "XBMC version"
-msgstr "XBMC Version"
+msgid "Kodi version"
+msgstr "Kodi Version"
 
 msgctxt "#41460"
 msgid "Guide"
@@ -545,8 +553,8 @@ msgid "Home"
 msgstr "Startseite"
 
 msgctxt "#41525"
-msgid "search XBMC for"
-msgstr "durchsuche XBMC nach"
+msgid "search Kodi for"
+msgstr "durchsuche Kodi nach"
 
 msgctxt "#41550"
 msgid "Spotlight"
@@ -699,6 +707,10 @@ msgstr "Handlung anzeigen"
 msgctxt "#42019"
 msgid "Use posters"
 msgstr "Poster verwenden"
+
+msgctxt "#42020"
+msgid "Show plot on focus"
+msgstr "Handlung bei Fokus anzeigen"
 
 msgctxt "#42021"
 msgid "View"
